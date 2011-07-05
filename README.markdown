@@ -21,3 +21,6 @@ You can find complete documentation at [http://developers.box.net/](http://devel
 ### Support ###
 
 If you have any questions or suggestions for improvement, ping us on our [forum](http://forum.developers.box.net/box_developers) or email us directly at developers[at]box[dot]net.
+
+### Thanks ###
+Special thanks to Jimmy Jia for building this library!
